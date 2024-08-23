@@ -1,0 +1,13 @@
+---
+title: "Diário de um TDAH (3)"
+excerpt: "Uma revelação."
+date: "2024-08-17"
+---
+
+Não me lembro quando, exatamente, mas faz muito tempo. Eu estava sentado no sofá da psicóloga contando alguma coisa e ela teve uma iluminação: "Mas é claro! como é que eu não vi isso antes?" Os sintomas estavam todos ali: Um senso de não pertencimento; confusões e esquecimentos, tudo involuntário. As pessoas achando eu eu não servia para o que estava fazendo, eu inclusive, em praticamente todas as atividaes em que me envolvia. Críticas de que eu não levava nada a sério. Problemas de relacionamento por não ligar, esquecer datas específicas. Perder as coisas, não apenas o guarda-chuva. Voltar para casa para pegar a carteira e esquecer o celular. Chegar na frente da escola e descobrir que é feriado. E outras coisas.
+
+Datas e referências numéricas não fazem muito sentido. Quando tenho que falar de um evento no passado, tenho que me visualizar na situação, e associar com algo que estava vivendo na época, para saber quando foi: eu tava no último ano do segundo grau, então foi em 1995... Eu ainda estava morando no endereço tal, então eu devia ter uns doze anos... Nessa época o pai tinha um Opalão então deve ter sido mais ou menos em dois mil e... e assim por diante, buscando sempre referências visuais, eu me vendo em uma determinada situação ou local. Não entendo como as pessoas podem contar uma história dizendo: "Em mil novecentos e sessenta e nove, quando o homem pisou na lua...". Pra mim, isso é impossível (não o homem ter pisado na Lua, mas ter a referência de data tão clara!).
+
+Outra referência sem sentido são as horas e as convenções associadas a elas. Não se assuste se eu te disser "bom dia" e forem onze horas da noite. Eu só não percebi. Pra mim, se eu estou chegando é bom dia, se estou indo embora é boa noite ou boa tarde ou bom dia, conforme a iluminação, mas se estiver bem claro, o "bom dia" pode ir até umas seis da tarde. Eu como na hora que dá fome. café da manhã pode ser às onze, almoço qualquer hora entre as dez da manhã e seis da tarde. O jantar, entre seis da tarde e quatro da manhã. Dormir, quando tenho sono. Às vezes, às quatro da manhã.
+
+Eu sei que isso atrapalha. Ciclo circadiano, eventos sociais como refeições em familia, compromissos profissionais etc. Em alguma medida eu acabo me regrando por esses eventos, mas acho errado. Às vezes estou trabalhando ou estudando e me chamam pra almoçar. Fico irritado. Me dá a impressão de que acham que não estou fazendo nada -- o que só é verdade em 50% das vezes --, ou que o que eu faço não é relevante, pois posso parar a qualquer momento apenas para ir comer. Cozinhar, botar a mesa, tirar a mesa, lavar a louça. Esses são os ritmos do almoço, que precisam ser respeitados.
