@@ -20,7 +20,7 @@ export default function PostPage({
   return (
     <Container>
       <Head>
-        <title>{post.title} | My awesome blog</title>
+        <title>{post.title} | Blog do Atauã</title>
       </Head>
 
       {router.isFallback ? (
@@ -30,12 +30,14 @@ export default function PostPage({
           <article>
             <header>
               <h1 className="text-4xl font-bold">{post.title}</h1>
-              {post.excerpt ? (
+              {post.excerpt && (
                 <p className="mt-2 text-xl">{post.excerpt}</p>
-              ) : null}
-              <time className="flex mt-2 text-gray-400">
-                {distanceToNow(new Date(post.date))}
-              </time>
+              )}
+              {post.date && (
+                <time className="flex mt-2 text-gray-400">
+                  {distanceToNow(new Date(post.date))}
+                </time>
+              )}
             </header>
 
             <div
