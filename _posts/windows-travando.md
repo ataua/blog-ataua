@@ -15,7 +15,7 @@ A solução é simples:
 - clique com o botão direito do mouse em `EsLogFile` da lista de pastas
 - selecione 'excluir' e confirme
 
-![um tênis dentro de uma geladeira](/delete.png)
+![Listya de pastas em C:/](/delete.png)
 
 Isso deleta a pasta, porém ela é recriada e com o tempo o problema volta a acontecer
 Você pode criar o hábito de deletar a pasta uma vez por semana, ou simplesmente desativar a função responsável por criá-la:
